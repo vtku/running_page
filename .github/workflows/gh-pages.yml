@@ -2,9 +2,6 @@ name: Publish GitHub Pages
 
 # Controls when the action will run.
 on:
-  schedule:
-    # 每隔 3 小时运行一次
-  - cron: '0 */3 * * *'
   workflow_dispatch:
     inputs:
       save_data_in_github_cache:
