@@ -11623,5 +11623,20 @@
 "average_heartrate": 145.66039426523298,
 "average_speed": 2.704683589560243,
 "streak": 2
+},
+{
+"run_id": 415204070,
+"name": "Ride from codoon",
+"distance": 1040.0,
+"moving_time": "0:04:01",
+"type": "Ride",
+"subtype": "Ride",
+"start_date": "2025-12-31 09:19:17",
+"start_date_local": "2025-12-31 09:19:17",
+"location_country": "\u4e2d\u6d77\u5927\u9053, \u4e2d\u65b0\u5929\u6d25\u751f\u6001\u57ce, \u6ee8\u6d77\u65b0\u533a, \u5929\u6d25\u5e02, \u4e2d\u56fd",
+"summary_polyline": "mnanFojwmUFPHPFPHRHPHPHRHPHPHPJPHPJPHPJNHPJNHPHLFJF@BCDKDMDMDOHOFOHQJOJOJOJOJOLOLOLMLOLONMNMLKNKNKNKPININIPINGNGNGLGJEJGLGNELGNGNGNIPGNINGNGNIPGLILMLMLKNINKNILKNKLKLMLMLKNKLKJKFGFEDCDGDG?MGMKOKOIQIOIQKOIQIQIQKQIOIQIOIOAMBKJIJGLEJGJE",
+"average_heartrate": 111.54347826086956,
+"average_speed": 4.3153526970954355,
+"streak": 3
 }
 ]
